@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=boolean\ usesLeftHand(java.lang.String)
+comment0.text=\r\n\ \ \ \ postcondition\:\ \ returns\ true\ if\ the\ lefthand\ is\ required\ to\ type\ the\ given\ String\ s\r\n
+comment1.params=s
+comment1.target=boolean\ usesRightHand(java.lang.String)
+comment10.params=s
+comment10.target=boolean\ usesOnlyBottomRow(java.lang.String)
+comment2.params=s
+comment2.target=boolean\ usesOnlyLeftHand(java.lang.String)
+comment3.params=s
+comment3.target=boolean\ usesOnlyRightHand(java.lang.String)
+comment4.params=s
+comment4.target=boolean\ usesBothLeftAndRightHand(java.lang.String)
+comment5.params=s
+comment5.target=boolean\ usesTopRow(java.lang.String)
+comment6.params=s
+comment6.target=boolean\ usesMiddleRow(java.lang.String)
+comment7.params=s
+comment7.target=boolean\ usesBottomRow(java.lang.String)
+comment8.params=s
+comment8.target=boolean\ usesOnlyTopRow(java.lang.String)
+comment9.params=s
+comment9.target=boolean\ usesOnlyMiddleRow(java.lang.String)
+numComments=11

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=domain
+comment0.target=problem77Page134(String[])
+comment0.text=domain\ is\ an\ array\ with\ three\ elements\n\n
+comment1.params=y
+comment1.target=String\ weirdStringFunction(String[])
+comment1.text=y\ is\ an\ array\ of\ length\ 3\nreturns\ a\ String\ according\ to\ the\ description\ of\ problem\ 77-81\ on\ page\ 134\n\n
+numComments=2

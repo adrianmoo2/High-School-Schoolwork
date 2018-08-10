@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=cl
+comment0.target=KnightMoves(ChessLocation)
+comment1.params=destination
+comment1.target=int\ minimumNumMovesTo(ChessLocation)
+comment1.text=\r\n\ \ \ precondition\:\ ChessLocation\ is\ a\ valid\r\n\ \ \ \r\n\ \ \ returns\ a\ value\ greater\ tahn\ or\ equal\ to\ 0\ which\ represents\r\n\ \ \ \ \ \ \ \ \ \ \ the\ minimum\ number\ of\ moves\ for\ the\ knight\ to\ move\ from\ its\ curernt\ location\ to\ destination\r\n
+comment10.params=chLoc
+comment10.target=ChessLocation\ backwardOneThenLeftTwo(ChessLocation)
+comment2.params=col
+comment2.target=boolean\ notValidCol(char)
+comment3.params=chLoc
+comment3.target=ChessLocation\ forwardTwoThenRight(ChessLocation)
+comment4.params=chLoc
+comment4.target=ChessLocation\ forwardTwoThenLeft(ChessLocation)
+comment5.params=chLoc
+comment5.target=ChessLocation\ forwardOneThenRightTwo(ChessLocation)
+comment6.params=chLoc
+comment6.target=ChessLocation\ forwardOneThenLeftTwo(ChessLocation)
+comment7.params=chLoc
+comment7.target=ChessLocation\ backwardTwoThenRight(ChessLocation)
+comment8.params=chLoc
+comment8.target=ChessLocation\ backwardTwoThenLeft(ChessLocation)
+comment9.params=chLoc
+comment9.target=ChessLocation\ backwardOneThenRightTwo(ChessLocation)
+numComments=11

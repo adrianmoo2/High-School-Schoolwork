@@ -1,0 +1,43 @@
+#BlueJ class context
+comment0.params=d\ co
+comment0.target=FunctionsChapter3Style(Set<String>,\ Set<String>)
+comment1.params=d\ co\ r
+comment1.target=FunctionsChapter3Style(Set<String>,\ Set<String>,\ Set<OrderedPair>)
+comment10.params=op\ opCoDomain
+comment10.target=FunctionsChapter3Style\ composition(Set<OrderedPair>,\ Set<String>)
+comment10.text=precondition\:\ \ rel\ and\ op\ are\ functions.\ \ Domain\ of\ op\ subset\ of\ coDomain\ of\ rel\n\nreturns\ a\ new\ FunctionsChapter3Style\ Object.\nThe\ domain\ is\ the\ domain\ of\ new\ Object\ is\ this.domain\nThe\ coDomain\ is\ opCoDomain\ (the\ paramenter)\n\nThe\ new\ function\ is\ the\ composition\ op(\ getRelation\ (domain)\ )\n\n
+comment11.target=OrderedPair[]\ getInverse()
+comment11.text=precondition\:\ \ rel\ is\ a\ function.\nrel\ does\ not\ have\ to\ be\ both\ 1-1\ and\ onto\nthe\ inverse\ does\ not\ need\ to\ be\ a\ function\n\n
+comment12.target=boolean\ isReflexive()
+comment12.text=A\ relation\ is\ reflexive\ if\ (x,\ x)\ in\ R\ for\ every\ x\ in\ X\n\nreturns\ true\ if\ the\ current\ relation\ is\ reflexive\nreturns\ false\ otherwise\n\n
+comment13.target=boolean\ isSymmetric()
+comment13.text=A\ relation\ is\ symmetric\ if\nfor\ all\ x,\ y\ in\ X,\ if\ (x,y)\ in\ R,\ then\ (y,x)\ in\ R\n\nreturns\ true\ if\ the\ current\ relation\ is\ symmetric\nreturns\ false\ otherwise\n\n
+comment14.target=boolean\ isAntiSymmetric()
+comment14.text=A\ relation\ is\ Antisymmetric\ if\nfor\ all\ x,\ y\ in\ X,\ if\ (x,y)\ in\ R,\ and\ (y,x)\ in\ R,\ then\ x\ \=\ y\n\nreturns\ true\ if\ the\ current\ relation\ is\ Antisymmetric\nreturns\ false\ otherwise\n\n
+comment15.target=boolean\ isTransitive()
+comment15.text=A\ relation\ is\ transitive\:\nif\ (a,b)\ and\ (b,c)\ then\ (a,c)\n\nreturns\ true\ if\ the\ current\ relation\ is\ reflexive\nreturns\ false\ otherwise\n\n
+comment16.target=boolean\ isEquivalenceRelation()
+comment16.text=returns\ true\ is\ the\ relation\ is\ an\ Equivalence\ Relation\nreturns\ false\ otherwise\n\n
+comment17.target=boolean\ isPartiallyOrder()
+comment17.text=\nreturns\ true\ is\ the\ relation\ is\ an\ Partially\ Order\nreturns\ false\ otherwise\n\n
+comment18.params=s
+comment18.target=ArrayList<OrderedPair>\ getRel(String)
+comment18.text=not\ tested.\nNot\ sure\ why\ it\ is\ here.\ \ I\ think\ I\ needed/used\ this\ functionality\ more\ than\ once,\nand\ therefore\ created\ a\ helper\ method\n\n
+comment2.target=String\ getRelString()
+comment2.text=Not\ test.\n\nI\ admit\ that\ I\ did\ use\ this\ method\ a\ couple\ of\ times.\nIt\ came\ in\ very\ handy\ and\ SHORTEN\ my\ code\ and\ GREATLY\ simplified\ some\ methods\nI\ will\ let\ you\ figure\ out\ which\ ones\ and\ how\n\nreturns\ a\ String\ of\ the\ form\:\ [(a,b),\ (c,d),\ ...(v,w)]\n\n
+comment3.params=op
+comment3.target=void\ setRelation(OrderedPair[])
+comment3.text=replaces\ the\ current\ relation\ instance\ variable\ with\ op\n\nYES\ -\ this\ method\ gets\ used\ in\ the\ my\ (stipulator)\ tester\n\n
+comment4.target=Set<OrderedPair>\ getRelation()
+comment4.text=returns\ the\ current\ relation\ instance\ variable\ \n\n
+comment5.target=int\ size()
+comment5.text=retruns\ the\ number\ of\ Order\ Pairs\ in\ the\ relation\n\n
+comment6.target=boolean\ isFunction()
+comment6.text=returns\ true\ if\ the\ array\ of\ Order\ Pairs\ forms\ a\ function\nreturns\ false\ otherwise\n\n
+comment7.target=boolean\ isOneToOne()
+comment7.text=\nA\ function\ f\ from\ X\ to\ Y\ is\ said\ to\ be\ one\ to\ one\ if\ \nfor\ each\ y\ in\ Y,\ there\ is\ at\ most\ one\ x\ in\ X\ with\ f(x)\ \=\ y\n\nreturns\ true\ if\ array\ of\ order\ Pairs\ is\ a\ function\ and\ the\ function\ is\ one\ to\ one\nreturns\ false\ otherwise\n\n
+comment8.target=boolean\ isOnTo()
+comment8.text=A\ function\ from\ X\ to\ Y\ is\ said\ to\ be\ onto\ if\nthe\ range\ of\ f\ \=\=\ Y\n\nreturns\ true\ if\ array\ of\ order\ Pairs\ is\ a\ function\ and\ the\ function\ is\ onto\nreturns\ false\ otherwise\n\n
+comment9.target=boolean\ isBijective()
+comment9.text=returns\ true\ if\ the\ array\ of\ order\ Pairs\ is\ a\ function\ and\ the\ function\ is\ bijective\nthat\ is\ both\ one\ to\ one\ and\ onto\nreturns\ false\ otherwise\n\n
+numComments=19

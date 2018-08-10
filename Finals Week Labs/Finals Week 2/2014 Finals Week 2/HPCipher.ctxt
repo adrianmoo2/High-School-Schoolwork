@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=mess
+comment0.target=HPCipher(java.lang.String)
+comment1.params=s1\ s2
+comment1.target=int\ letterDifference(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ \ \ \ precondition\ s1.length()\ \=\=\ 1\ \ \ &&\ \ \ s2.length()\ \=\=\ 1\r\n
+comment2.params=code
+comment2.target=java.lang.String\ decode(java.lang.String)
+numComments=3

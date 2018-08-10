@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=r\ d\ angle
+comment0.target=PolarEquation(double,\ double,\ double)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ PolarEquation\n\n
+comment1.target=double\ getA()
+comment2.target=double\ getRo()
+comment3.target=double\ getPhi()
+numComments=4

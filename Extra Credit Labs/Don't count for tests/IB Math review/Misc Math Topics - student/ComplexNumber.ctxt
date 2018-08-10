@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=realPart\ imaginaryPart
+comment0.target=ComplexNumber(double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ComplexNumber\ given\ the\ complex\ number\ in\ the\ form\:\ \ a\ +\ bi\r\n\ \r\n\ \ \ \ a\ \=\ real\ part\r\n\ \ \ \ b\ \=\ imaginary\ part\r\n
+comment1.params=trigForm
+comment1.target=ComplexNumber(double[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ComplexNumber\ given\ the\ number\ in\ trig\ form\:\ \ z\ \=\ r(cos(t)\ +\ i\ sin(t))\r\n\ \r\n\ \ \ \ trigForm[0]\ \=\ magnitude\ \ \ (r)\r\n\ \ \ \ trigForm[1]\ \=\ angle\ \ \ \ \ \ \ (t)\r\n\ \ \ \ note;\ r\ may\ be\ negative,\ but\ t\ >\=0\r\n
+comment2.params=
+comment2.target=double\ getRealPart()
+comment2.text=\r\n\ @return\ \ \ \ \ the\ real\ part\ of\ the\ complex\ number\r\n
+comment3.params=
+comment3.target=double\ getImaginaryPart()
+comment3.text=\r\n\ @return\ \ \ \ \ the\ imaginary\ part\ of\ the\ complex\ number\r\n
+comment4.params=x
+comment4.target=void\ setRealPart(double)
+comment4.text=\r\n\ \ \ \ \ \ \ set\ the\ real\ part\ of\ the\ complex\ number\ to\ x\r\n
+comment5.params=y
+comment5.target=void\ setImaginaryPart(double)
+comment5.text=\r\n\ \ \ \ \ \ \ set\ the\ imaginary\ part\ of\ the\ complex\ number\ to\ y\r\n
+comment6.params=
+comment6.target=double[]\ convertToTrigForm()
+comment6.text=\r\n\ \ \ \ converts\ the\ current\ complex\ number\ (this)\ in\ a\ +\ bi\ form\ to\ its\ trig\ form\ equivalence\ a\ +\ bi\ \=\ |z|(cos(t)\ +\ i\ sin(t))\r\n\ \ \ \ \r\n\ \ \ \ @retuns\ \ a\ two\ item\ array\ with\ arr[0]\ \=\ magnitude\ if\ complex\ number\ (z)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ arr[1]\ \=\ the\ angle\ (t)\r\n\r\n\ \ \ \ Yes,\ I\ think\ the\ only\ difficult\ part\ will\ be\ to\ determine\ which\ quadrant\ (to\ add\ Math.PI\ ||\ \!)\r\n
+comment7.params=n
+comment7.target=double[]\ pow(int)
+comment7.text=\r\n\ \ \ \ converts\ the\ current\ complex\ number\ (this)\ in\ a\ +\ bi\ form\ to\ its\ trig\ form\ equivalence\ a\ +\ bi\ \=\ |z|(cos(t)\ +\ i\ sin(t))\r\n\ \ \ \ and\ raises\ it\ to\ an\ integer\ (n)\ power\ \ (think\ De\ Moivre\ formula)\r\n\ \ \ \ \r\n\ \ \ \ @retuns\ \ a\ two\ item\ array\ with\ arr[0]\ \=\ magnitude\ if\ complex\ number\ (z)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ arr[1]\ \=\ the\ angle\ (t),\ 0\ <\=\ t\ <\ 2*Math.PI\r\n\r\n
+comment8.params=n
+comment8.target=java.util.ArrayList\ nthRoot(int)
+comment8.text=\r\n\ \ \ \ converts\ the\ current\ complex\ number\ (this)\ in\ a\ +\ bi\ form\ to\ its\ trig\ form\ equivalence\ a\ +\ bi\ \=\ |z|(cos(t)\ +\ i\ sin(t))\r\n\ \ \ \ and\ returns\ all\ n-th\ (n\ an\ integer)\ roots\ \ (once\ again,\ think\ De\ Moivre\ formula)\r\n\ \ \ \ \r\n\ \ \ \ @returns\ \ an\ ArrayList\ of\ \ Complex\ Numbers\r\n\r\n\ \ \ \ note\:\ \ the\ ArrayList\ should\ contain\ n\ Complex\ Number\r\n\r\n
+comment9.params=obj
+comment9.target=boolean\ equals(java.lang.Object)
+comment9.text=\r\n\ \ \ \ @returns\ \ true\ if\ the\ real\ and\ imaginary\ values\ are\ close\ enough\ \ (say\ within\ 0.02)\r\n\r\n\ \ \ \ note\:\ \ the\ ArrayList\ should\ contain\ n\ Complex\ Number\r\n\r\n
+numComments=10

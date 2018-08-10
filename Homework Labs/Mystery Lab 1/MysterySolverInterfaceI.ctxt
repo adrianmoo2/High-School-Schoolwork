@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=java.lang.String\ mystery1(java.lang.String)
+comment0.text=\ \ \ one\ StringTokenizer\ strTok\ \=\ new\ StringTokenizer(input)\r\n\ \ \ \ \ is\ allowed\ per\ method.\ \ This\ is\ also\ the\ only\ use\ of\ input\ allowed.\r\n\ \ \ \ \ In\ addition,\ StringTokenizer\ is\ only\ allowed\ to\ partition\ the\ String\ and\ enter\r\n\ \ \ \ \ into\ the\ stack\ or\ queue\ or\ ....\ \ No\ other\ use\ of\ StringTokenizer\ is\ allowed.\r\n
+comment1.params=input
+comment1.target=java.lang.String\ mystery2(java.lang.String)
+comment1.text=\ \ Allowable\ Objects\r\n\ \ \tStringTokenizer\ strTok\ \=\ new\ StringTokenizer(input);\r\n\r\n\ \ \tStack<someClassThatYouChoose>\ s\ \=\ new\ Stack<someClassThatYouChoose>();\r\n\ \ \tQueue<someClassThatYouChoose>\ q\ \=\ new\ LinkedList<someClassThatYouChoose>();\r\n\ \ \ \tString\ str\ \=\ new\ String();\ \ \ \r\n\ \ \ \tplus\ one\ other\ Object\ of\ your\ choice,\ for\ example\ one\ Integer\ or\ String\ or\ ....\r\n
+comment2.params=input
+comment2.target=java.lang.String\ mystery3(java.lang.String)
+comment2.text=\ \ Allowable\ Objects\r\n\ \ \tStringTokenizer\ strTok\ \=\ new\ StringTokenizer(input);\r\n\r\n\ \ \tStack<someClassThatYouChoose>\ s\ \=\ new\ Stack<someClassThatYouChoose>();\r\n\ \ \tQueue<someClassThatYouChoose>\ q\ \=\ new\ LinkedList<someClassThatYouChoose>();\r\n\ \ \ \tString\ str\ \=\ new\ String();\ \ \ \r\n\ \ \ \tplus\ one\ other\ Object\ of\ your\ choice,\ for\ example\ one\ Integer\ or\ String\ or\ ....\r\n
+comment3.params=input
+comment3.target=java.lang.String\ mystery4(java.lang.String)
+comment3.text=\ \ Allowable\ Objects\r\n\ \ \tStringTokenizer\ strTok\ \=\ new\ StringTokenizer(input);\r\n\r\n\ \ \tStack<someClassThatYouChoose>\ s\ \=\ new\ Stack<someClassThatYouChoose>();\r\n\ \ \tQueue<someClassThatYouChoose>\ q\ \=\ new\ LinkedList<someClassThatYouChoose>();\r\n\ \ \ \tString\ str\ \=\ new\ String();\ \ \ \r\n\ \ \ \tplus\ one\ other\ Object\ of\ your\ choice,\ for\ example\ one\ Integer\ or\ String\ or\ ....\r\n
+comment4.params=input
+comment4.target=java.lang.String\ mystery5(java.lang.String)
+comment4.text=\ \ Allowable\ Objects\r\n\ \ \tStringTokenizer\ strTok\ \=\ new\ StringTokenizer(input);\r\n\r\n\ \ \tStack<someClassThatYouChoose>\ s\ \=\ new\ Stack<someClassThatYouChoose>();\r\n\ \ \tQueue<someClassThatYouChoose>\ q\ \=\ new\ LinkedList<someClassThatYouChoose>();\r\n\ \ \ \tString\ str\ \=\ new\ String();\ \ \ \r\n\ \ \ \tplus\ one\ other\ Object\ of\ your\ choice,\ for\ example\ one\ Integer\ or\ String\ or\ ....\r\n
+numComments=5

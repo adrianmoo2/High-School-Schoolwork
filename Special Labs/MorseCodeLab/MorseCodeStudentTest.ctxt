@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testDecode_AEIOU()
+comment0.text=\r\n\ Default\ constructor\ for\ test\ class\ MorseCodeTest\r\n
+comment1.params=
+comment1.target=void\ testEncode_I_AM_A_CONSERVATIVE()
+numComments=2

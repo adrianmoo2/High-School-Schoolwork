@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=void\ testSSA00()
+comment1.target=void\ testSSS00()
+comment2.target=void\ testSAS00()
+comment3.target=void\ testASA00()
+comment4.target=void\ testAAS00()
+comment5.target=void\ testSSS_getPerimeter()
+comment6.target=void\ testSSS_getArea()
+numComments=7

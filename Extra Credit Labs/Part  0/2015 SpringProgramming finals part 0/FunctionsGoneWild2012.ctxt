@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ f1(int)
+comment1.params=x\ y\ z
+comment1.target=double\ f2(double,\ double,\ double)
+comment2.params=a\ b
+comment2.target=double\ f3(double,\ double)
+comment3.params=a\ b\ c
+comment3.target=double\ f4(double,\ double,\ double)
+comment4.params=a\ b\ c
+comment4.target=int\ f5(int,\ int,\ int)
+comment5.params=a\ b\ c\ d
+comment5.target=int\ f6(int,\ int,\ int,\ int)
+comment6.params=x\ y\ z
+comment6.target=boolean\ f7(boolean,\ boolean,\ boolean)
+comment7.params=j\ k\ m\ n
+comment7.target=boolean\ f8(boolean,\ boolean,\ boolean,\ boolean)
+comment8.params=a\ b\ c\ d
+comment8.target=double\ f9(double,\ double,\ double,\ double)
+comment9.params=v\ w\ x\ y\ z
+comment9.target=boolean\ f10(boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+numComments=10

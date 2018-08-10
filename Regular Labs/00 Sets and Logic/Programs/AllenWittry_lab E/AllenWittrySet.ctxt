@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=AllenWittrySet(String)
+comment1.params=s
+comment1.target=AllenWittrySet<E>\ setUnion(AllenWittrySet<E>)
+comment10.target=void\ clear()
+comment11.target=Object[]\ toArray()
+comment12.params=o
+comment12.target=void\ add(E)
+comment13.params=o
+comment13.target=void\ remove(E)
+comment14.params=otherObj
+comment14.target=int\ compareTo(E)
+comment15.params=otherObj
+comment15.target=boolean\ equals(Object)
+comment15.text=public\ AllenWittrySet<E>\ sigmaN(int\ n)\ {\nObject[]\ objs\ \=\ toArray();\n\n}\n\n
+comment16.target=String\ toString()
+comment2.params=s
+comment2.target=AllenWittrySet<E>\ setIntersection(AllenWittrySet<E>)
+comment3.params=s
+comment3.target=AllenWittrySet<E>\ setDifference(AllenWittrySet<E>)
+comment4.params=s
+comment4.target=boolean\ isSubsetOf(AllenWittrySet<E>)
+comment5.params=s
+comment5.target=boolean\ isProperSubsetOf(AllenWittrySet<E>)
+comment5.text=returns\ true\ if\ mySet\ is\ a\ proper\ subset\ of\ s\nA\ set\ is\ a\ proper\ subset\ of\ B\ iff\nset\ A\ is\ a\ subset\ B\ and\ set\ A\ does\ not\ equal\ B\n\n
+comment6.target=Iterator<E>\ iterator()
+comment7.target=int\ size()
+comment8.target=boolean\ isEmpty()
+comment9.params=o
+comment9.target=boolean\ contains(E)
+numComments=17

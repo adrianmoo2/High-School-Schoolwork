@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=LongestPalindrome(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getLongestPalindrome()
+comment2.params=x
+comment2.target=boolean\ isPalindrome(java.lang.String)
+numComments=3

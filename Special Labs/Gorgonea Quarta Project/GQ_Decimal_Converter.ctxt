@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=int\ toDecimal(java.lang.String)
+comment1.params=num
+comment1.target=java.lang.String\ toGQ(int)
+numComments=2

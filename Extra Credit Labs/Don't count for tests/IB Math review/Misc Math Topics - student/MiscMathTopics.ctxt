@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=amount\ numYears\ rate
+comment0.target=double\ calculateAnnualCompoundInterest(double,\ int,\ double)
+comment0.text=\r\n\ \ \ \ \ \ Annual\ Compound\ Interest,\ \ A\ \=\ p(1+\ r)^numYears\r\n\ \ \ \ \ \ You\ invest\ $500\ in\ an\ account\ that\ pays\ 3%\ interest\ compounded\ annually.\ Find\ the\ balance\ after\ 2\ years.\r\n\ \r\n\ \ \ \ amount\ \=\ initial\ investment\ (p)\r\n\ \ \ \ numYears\ \=\ the\ number\ of\ years\ the\ money\ is\ invested\r\n\ \ \ \ rate\ \=\ interest\ rate\ paid.\ \ Given\ as\ a\ decimal,\ that\ is\ if\ rate\ \=\ .05,\ the\ interest\ is\ 5%\r\n\ \r\n
+comment1.params=amount\ num\ numYears\ rate
+comment1.target=double\ calculateCompoundInterest(double,\ int,\ int,\ double)
+comment1.text=\r\n\ compound\ interest\ \ \ //\ you\ find\ the\ formula\r\n\ \ \ \ \ \ 1)\ You\ invest\ $100\ in\ an\ account\ that\ pays\ 10%\ interest\ compounded\ annually.\r\n\ \ \ \ \ \ \ \ \ Find\ the\ balance\ after\ 1\ year.\r\n\ \ \ \ \ \ 2)\ You\ invest\ $100\ in\ an\ account\ that\ pays\ 10%\ interest\ compounded\ semiannually.\r\n\ \ \ \ \ \ \ \ \ Find\ the\ balance\ after\ 1\ year.\r\n\r\n\ \ \ \ amount\ \=\ initial\ investment\r\n\ \ \ \ num\ \=\ number\ of\ compunding\ per\ year.\ \ annuanlly\ \=\ once\ a\ year\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ semiannually\ \=\ twice\ a\ year\r\n\ \ \ \ numYears\ \=\ the\ number\ of\ years\ the\ money\ is\ invested\r\n\ \ \ \ rate\ \=\ interest\ rate\ paid.\ \ Given\ as\ a\ decimal,\ that\ is\ if\ rate\ \=\ .05,\ the\ interest\ is\ 5%\r\n\ \ \ \ \r\n
+comment2.params=halfLife\ iAmount\ duration
+comment2.target=double\ calculateHalfLifeAmount(double,\ double,\ double)
+comment2.text=\r\n\ \ Applications\ of\ exponential\ and\ log\ equations\r\n\ \ \r\n\ \ The\ half-life\ of\ carbon-11\ is\ 20\ minutes.\r\n\ \ How\ much\ long\ will\ it\ take\ to\ 600\ g\ of\ carbon-11\ to\ decay\ to\ 30\ g?\r\n\ \ \r\n\ \ halfLife\ \=\ half\ life\ of\ given\ element\r\n\ \ iAmount\ \=\ starting\ amount\ of\ given\ element\r\n\ \ duration\ \=\ the\ time\ spent\ waiting\ for\ the\ given\ element\r\n\ \ \r\n\ \ units\ will\ both\ iAmount\ and\ fAmount\ will\ always\ be\ the\ same\r\n\ \ \r\n\ \ the\ units\ of\ the\ returned\ value\ will\ be\ asume\ to\ be\ the\ same\ as\ halfLife\r\n\ \ \r\n
+comment3.params=halfLife\ iAmount\ fAmount
+comment3.target=double\ calculateHalfLifeTime(double,\ double,\ double)
+comment3.text=\r\n\ \ Applications\ of\ exponential\ and\ log\ equations\r\n\ \ \r\n\ \ The\ half-life\ of\ carbon-11\ is\ 20\ minutes.\ How\ long\ will\ it\ take\ to\ 600\ g\ of\ carbon-11\ to\ decay\ to\ 30\ g?\r\n\ \ \r\n\ \ halfLife\ \=\ half\ life\ of\ given\ element\r\n\ \ iAmount\ \=\ starting\ amount\ of\ given\ element\r\n\ \ fAmount\ \=\ final\ amount\ of\ given\ element\r\n\ \ \r\n\ \ units\ will\ both\ iAmount\ and\ fAmount\ will\ always\ be\ the\ same\r\n\ \ \r\n\ \ the\ units\ of\ the\ returned\ value\ will\ be\ asume\ to\ be\ the\ same\ as\ halfLife\r\n\ \ \r\n
+comment4.params=amount\ numYears\ rate
+comment4.target=double\ calculateContinuousCompounding(double,\ int,\ double)
+comment4.text=\r\n\ \r\n\r\n\ \ \ \ I.\ \ Continuous\ Compounding\ \r\n\ \ \ \ \ \ \ \ 1)\ Suppose\ that\ $1000\ is\ invested\ at\ 7%\ interest\ compounded\ continuously.\r\n\ \ \ \ \ \ \ \ How\ much\ money\ would\ be\ in\ the\ bank\ after\ 5\ years?\r\n\r\n\ \r\n\ \ \ \ amount\ \=\ initial\ investment\r\n\ \ \ \ numYears\ \=\ the\ number\ of\ years\ the\ money\ is\ invested\r\n\ \ \ \ rate\ \=\ interest\ rate\ paid.\ \ Given\ as\ a\ decimal,\ that\ is\ if\ rate\ \=\ .05,\ the\ interest\ is\ 5%\r\n\ \ \ \ \r\n
+comment5.params=rate
+comment5.target=double\ calculateContinuousCompounding(double)
+comment5.text=\r\n\ \ \ \ II.\ \ Continuous\ Compounding\ \r\n\ \ \ \ \ \ \ \ \ 2)\ How\ long\ will\ it\ take\ to\ double\ an\ amount\ at\ 7%?}\r\n\ \r\n\ \ \ \ rate\ \=\ interest\ rate\ paid.\ \ Given\ as\ a\ decimal,\ that\ is\ if\ rate\ \=\ .05,\ the\ interest\ is\ 5%\r\n\ \ \ \ \r\n
+numComments=6

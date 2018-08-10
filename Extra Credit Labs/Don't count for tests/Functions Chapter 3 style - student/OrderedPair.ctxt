@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=x1\ y1
+comment0.target=OrderedPair(String,\ String)
+comment1.target=String\ getX()
+comment2.target=String\ getY()
+comment3.params=obj
+comment3.target=boolean\ equals(Object)
+comment3.text=If\ you\ want\ to\ compare\ two\ OrderedPair\ objects\ for\ equality,\nyou\ need\ to\ correctly\ implement\ this\ method\n\n
+comment4.target=int\ hashCode()
+comment4.text=Not\ tested\n\nIf\ you\ are\ going\ to\ use\ a\ HashMap,\ You\ MUST\ (I\ think)\ reimplement\ this\ method\n\n
+comment5.target=String\ toString()
+comment5.text=Not\ tested\n\nHowever,\ I\ did\ used\ this\ method\ in\ getRelationString\nAND\ it\ was\ a\ helpful\ tool\ when\ used\ in\ conjunction\ with\ the\ getRelationString\nmethod\ which\ GREATLY\ simplified\ and\ shorten\ the\ code\ in\ some\ methods\n\n
+numComments=6

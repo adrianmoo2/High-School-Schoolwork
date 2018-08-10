@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=val\ m\ e
+comment0.target=String\ toMatissaExponent(double,\ int,\ int)
+comment0.text=Convert\ the\ parameter\ val\ to\ its\ m-bit\ matissa\ and\ e-bit\ exponent\nwith\ one\ space\ seperating\ the\ matissa\ and\ the\ exponent\n\nreturn\ "np"\ if\ the\ conversion\ is\ not\ possible\n\npreconditions\:\ \ ????\ >\ \ val\ \ >\ 2^-10\n\nsee\ the\ student\ tester\ for\ sample\ input/output\n\n
+comment1.params=str
+comment1.target=double\ toDouble(String)
+comment1.text=converts\ the\ mantissa-exponent\ string\ to\ its\ equivalent\ real\ number\n\nprecondition\:\ str\ contains\ one\ space\ seperating\ the\ matissa\ from\ the\ exponent\ \n\n\nsee\ the\ student\ tester\ for\ sample\ input/output\n\n
+numComments=2

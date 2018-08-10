@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=int[][]\ makeReflexive(int[][])
+comment0.text=\ \ \ \ add\ the\ fewest\ 1s\ to\ copy\ of\ matrix\ m\ so\ that\ the\ copy\ is\ reflexive\ \r\n\ \ \ \ \r\n\ \ \ \ Remember\ to\ not\ change\ the\ parameter\!\!\!\!\!\!\!\!\!\r\n
+comment1.params=m
+comment1.target=int[][]\ makeSymmetric(int[][])
+comment1.text=\ \ \ \ add\ the\ fewest\ 1s\ to\ copy\ of\ matrix\ m\ so\ that\ the\ copy\ is\ symmetric\ \r\n\ \ \ \ \r\n\ \ \ \ Remember\ to\ not\ change\ the\ parameter\!\!\!\!\!\!\!\!\!\r\n
+comment2.params=m
+comment2.target=int[][]\ makeTransitive(int[][])
+comment2.text=\ \ \ \ add\ the\ fewest\ 1s\ to\ copy\ of\ matrix\ m\ so\ that\ the\ copy\ is\ transitive\ \r\n\ \ \ \ \r\n\ \ \ \ Remember\ to\ not\ change\ the\ parameter\!\!\!\!\!\!\!\!\!\r\n
+numComments=3

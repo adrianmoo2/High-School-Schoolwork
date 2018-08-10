@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=void\ testToString()
+comment1.target=void\ testMatrixProduct()
+comment10.target=void\ testIsAntiSymmetric()
+comment11.target=void\ testIsTransitive()
+comment12.target=void\ testIsEquivalenceRelation()
+comment13.target=void\ testIsPartiallyOrder()
+comment14.target=void\ testComposition()
+comment2.target=void\ testGetSize()
+comment3.target=void\ testIsFunction()
+comment4.target=void\ testIsOneToOne()
+comment5.target=void\ testIsOnTo()
+comment6.target=void\ testIsBijective()
+comment7.target=void\ testGetInverse()
+comment8.target=void\ testIsReflexive()
+comment9.target=void\ testIsSymmetric()
+numComments=15

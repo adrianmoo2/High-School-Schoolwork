@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=int\ convertToDecimal(java.lang.String)
+comment0.text=\r\n\ Convert\ the\ 2s\ complement\ representation\ to\ its\ integer\ equivalent\r\n\ \r\n\ precondition\ \ s\ is\ the\ 2s\ complement\ number\ that\ is\ to\ be\ convert\ to\ an\ int\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ number\ of\ bits\ \=\ s.length()\r\n\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ see\ the\ student\ tester\ for\ sample\ input/output\r\n
+comment1.params=val\ bits
+comment1.target=java.lang.String\ convertDecimalTo2sComplement(int,\ int)
+comment1.text=\r\n\ Convert\ the\ int\ parameter\ val\ to\ its\ 2s\ complement\ representatino\r\n\ \r\n\ precondition\:\ \ -2^(bits-1)\ <+\ val\ <+\ (2^[bits-1])\ -\ 1\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ i.e.,\ the\ valu\ fits\ in\ the\ range\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ postcondition\ \ \ The\ return\ value\ has\ length()\ \=\=\ bits\r\n\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ see\ the\ student\ tester\ for\ sample\ input/output\r\n
+comment2.params=s
+comment2.target=java.lang.String\ invert(java.lang.String)
+comment2.text=\r\n\ \ \ \ inverts\ the\ String\ parameter\ s\ to\ it\ negative\ value\r\n\ \ \ \ precondition\:\ \ s\ is\ a\ valid\ 2s\ complement\ number\ with\ s.length()\ bits\r\n\ \ \ \ \r\n\ \ \ \ postcondition\ \ return\ a\ string\ with\ length()\ \=\=\ s.length()\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ decimals\ value\ of\ s\ \=\=\ -\ decimal\ value\ of\ return\ String\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ e.g.,\ \ If\ s\ \=\ 0111,\ the\ String\ 1001\ is\ returned\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ If\ s\ \=\ 001,\ the\ String\ 111\ is\ returned\r\n
+numComments=3

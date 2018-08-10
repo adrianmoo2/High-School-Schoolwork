@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ isCustomary(int)
+comment0.text=\r\n\ An\ integer\ has\ the\ Customary\ property\ if\ \r\n\ \r\n\ \ \ \ \ \ 1\ -\ the\ integer\ contains\ five\ digits\r\n\ \ \ \ \ \ \ \ \ \ (the\ 10-thousands\ (10^4)\ place\ value\ \!\=\ 0)\r\n\ \ \ \ \ \ 2\ -\ no\ digit\ appears\ more\ than\ once\ in\ the\ number\r\n\ \ \ \ \ \ For\ example\:\ \ \ \ \ \ the\ following\ numbers\ have\ the\ customary\ property\:\ \ 40563,\ 94620,\ 48123\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ the\ following\ numbers\ do\ not\ have\ the\ customary\ property\:\ 2345,\ 10681,\ 12335\r\n
+comment1.params=n
+comment1.target=boolean\ isLikable(int)
+comment1.text=\r\n\ An\ integer\ has\ the\ Likable\ property\ if\r\n\ \r\n\ \ \ \ \ \ 1\ -\ the\ integer\ contains\ five\ digits\ (the\ 10-thousands\ (10^4)\ place\ value\ \!\=\ 0)\r\n\ \ \ \ \ \ 2\ -\ the\ middle\ three\ digits\ are\ divisible\ by\ the\ sum\ of\ the\ first\ digit\ and\ last\ digit\ \r\n\ \ \ \ \ \ For\ example\:\ \ \ \ \ \ 48564\ has\ the\ Likable\ property\ since\ 856\ %\ (4+4)\ \=\=\ 0\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ 25540\ has\ the\ Likable\ property\ since\ 554\ %\ (2+0)\ \=\=\ 0\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ 11638\ does\ NOT\ have\ the\ Likable\ property\ since\ 163\ %\ (1+8)\ \!\=\ 0\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ 1632\ does\ NOT\ have\ the\ Likable\ property\ since\ 1632\ does\ not\ contain\ five\ digits\r\n
+comment2.params=n
+comment2.target=boolean\ isGloomy(int)
+comment2.text=\r\n\ An\ integer\ has\ the\ Gloomy\ property\ if\r\n\ \r\n\ \ \ \ \ \ 1\ -\ the\ integer\ contains\ five\ digits\ (the\ 10-thousands\ (10^4)\ place\ value\ \!\=\ 0)\r\n\ \ \ \ \ \ 2\ -\ the\ number\ contains\ a\ 0\ immediately\ followed\ by\ a\ 6\r\n\ \ \ \ \ \ For\ example\:\ \ \ \ \ \ 40654\ has\ the\ Gloomy\ property\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ 10738\ does\ NOT\ have\ the\ Gloomy\ property\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ 10768\ does\ NOT\ have\ the\ Gloomy\ property\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ 60813\ does\ NOT\ have\ the\ Gloomy\ property\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ \ 6813\ does\ NOT\ have\ the\ Gloomy\ property\ because\ 6813\ does\ not\ contain\ five\ digits\r\n
+comment3.params=n
+comment3.target=boolean\ isAmazing(int)
+comment3.text=\r\n\ An\ integer\ has\ the\ Amazing\ property\ if\r\n\ \r\n\ \ \ \ \ \ 1\ -\ the\ integer\ contains\ five\ digits\ (the\ 10-thousands\ (10^4)\ place\ value\ \!\=\ 0)\r\n\ \ \ \ \ \ 2\ -\ the\ number\ contains\ one\ or\ more\ 7s\ and\ the\ sum\ of\ the\ non\ 7\ digits\ equals\ 7\r\n\ \ \ \ \ \ For\ example\:\ \ \ \ \ \ 47073\ has\ the\ Amazing\ property\ since\ 4+0+3\ \=\=\ 7\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ 10738\ does\ NOT\ have\ the\ Amazing\ property\ since\ 1+0+3+8\ \!\=\ 7\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ \ \ 1738\ does\ NOT\ have\ the\ Amazing\ property\ since\ 1+0+3+8\ \!\=\ 7\r\n
+comment4.params=n
+comment4.target=boolean\ isSurprising(int)
+comment4.text=\r\n\ \ \ \ An\ integer\ has\ the\ Surprising\ property\ if\ the\ number\ has\ (exactly)\ three\ of\ the\ following\ properties\:\r\n\ \r\n\ \ \ \ \ \ Customary\r\n\ \ \ \ \ \ Likable\r\n\ \ \ \ \ \ Gloomy\r\n\ \ \ \ \ \ and\ Amazing\r\n\ \ \ \ \ \ \r\n
+numComments=5

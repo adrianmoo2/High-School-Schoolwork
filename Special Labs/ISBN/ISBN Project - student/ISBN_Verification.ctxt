@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=isbn
+comment0.target=boolean\ isValid(java.lang.String)
+numComments=1

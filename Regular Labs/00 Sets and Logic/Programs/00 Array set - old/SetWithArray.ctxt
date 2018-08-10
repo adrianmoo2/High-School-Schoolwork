@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=SetWithArray(int[])
+comment1.params=y
+comment1.target=int[]\ union(int[])
+comment1.text=returns\ an\ array\ containing\ all\ elements\ in\ x\ OR\ y\n\n
+comment2.params=y
+comment2.target=int[]\ intersection(int[])
+comment2.text=returns\ an\ array\ containing\ all\ elements\ in\ x\ AND\ y\n\n
+comment3.params=y
+comment3.target=int[]\ difference(int[])
+comment3.text=returns\ an\ array\ containing\ all\ elements\ in\ x\ that\ are\ not\ in\ y\n\n
+comment4.params=y
+comment4.target=boolean\ isSubSetOf(int[])
+comment4.text=returns\ true\ if\ all\ elements\ of\ x\ are\ contained\ in\ y\n\n
+comment5.params=y
+comment5.target=boolean\ isEqualTo(int[])
+comment5.text=returns\ an\ array\ containing\ all\ elements\ in\ x\ that\ are\ not\ in\ y\n\n
+comment6.params=y
+comment6.target=int[]\ symmetricDifference(int[])
+comment6.text=returns\ the\ set\ of\ elements\ which\ are\ in\ one\ of\ the\ set\nthat\ is\:\ \ (x\ -\ y)\ union\ (y\ -\ x)\n\n
+comment7.params=s
+comment7.target=boolean\ isPartition(Set<int[]>)
+comment7.text=returns\ true\ if\ all\ the\ collection\ sets\ in\ s\ form\ a\ partition\ of\ x\nyou\ may\ assume\ that\ x\ is\ a\ universal\ set.\nThat\ is,\ all\ elements\ in\ s\ are\ contained\ in\ x\n\n
+numComments=8

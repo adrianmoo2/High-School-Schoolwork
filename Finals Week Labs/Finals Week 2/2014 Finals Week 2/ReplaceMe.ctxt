@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=ReplaceMe(int[])
+comment1.params=target
+comment1.target=int[]\ insertFourZeros(int)
+comment1.text=\r\n\ \ \ \ The\ int[]\ being\ returned\ must\ contain\ four\ ints.\r\n\ \ \ \ That\ is\ the\ length\ of\ the\ returned\ array\ must\ be\ exactly\ 4\r\n
+numComments=2

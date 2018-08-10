@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=void\ testRemove_key_Object01()
+comment0.text=\nif\ tico\ is\ in\ the\ Set\ associate\ with\ key\nremove\ tico\ from\ the\ set\ associated\ with\ key.\nif\ the\ Set\ becomes\ Empty,\ remove\ the\ key\ from\ iAmTheMap\notherwise\ -\ do\ not\ throw\ an\ exception,\ that\ exit\ the\ method\ gracefully\n\n
+comment1.target=void\ testRemoveFromAll01()
+comment1.text=\nremove\ isa\ from\ all\ sets\n\n
+comment2.target=void\ testMapUnion01()
+comment2.text=\nThis\ allows\ me\ to\ take\ the\ union\ of\ two\ DorasGreatMapAdventure\ implemented\ with\ TreeMaps\ and\ HashMap\n\nthe\ returned\ Map\ will\ contains\ the\ keys\ that\ are\ in\ either\ Map.\nFor\ keys\ that\ are\ in\ both\ Maps,\ the\ associated\ Sets\ will\ be\ a\ union\ of\ the\ two\ sets\n\n
+comment3.target=void\ testMapIntersection01()
+comment3.text=returns\ a\ DorasGreatMapAdventure\ implemented\ with\ a\ HashMap\nThis\ allows\ me\ to\ take\ the\ intersection\ of\ DorasGreatMapAdventure\ implemented\ with\ TreeMaps\ and\ HashMap\n\nthe\ returned\ Map\ will\ contains\ the\ keys\ that\ are\ only\ in\ both\ Maps.\nthe\ associated\ Sets\ will\ be\ an\ intersection\ of\ the\ two\ sets\npublic\ DorasGreatMapAdventure\ setIntersection(DorasGreatMapAdventure\ backpack)\n
+comment4.target=void\ testMapDifference01()
+comment4.text=returns\ a\ DorasGreatMapAdventure\ implemented\ with\ a\ HashMap\nThis\ allows\ me\ to\ take\ the\ difference\ of\ DorasGreatMapAdventure\ implemented\ with\ TreeMaps\ and\ HashMap\n\nthe\ returned\ Map\ will\ contains\ the\ keys\ that\ are\ in\ this.iAmTheMap.\nfor\ each\ key\ in\ this.iAmTheMap,\ if\ that\ key\ is\ in\ swiper,\nthe\ associated\ set\ is\ the\ set\ difference\ of\ this.iAmTheMap\ -\ swiper.iAmTheMap\npublic\ DorasGreatMapAdventure\ mapDifference(DorasGreatMapAdventure\ swiper)\n
+comment5.target=void\ testIsSubmapOf01()
+comment5.text=\nreturns\ true\ iff\nfor\ each\ key\ in\ this.iAmTheMap,\ backpack.iAmTheMap\ contains\ the\ same\ key\nthis.iAmTheMap.get(key)\ is\ a\ subset\ of\ backpack.iAmTheMap.get(k)\nnote\:\ \ this\ allows\ both\ Maps\ to\ be\ equal\notherwise\ return\ false\npublic\ boolean\ isSubmapOf(DorasGreatMapAdventure\ backpack)\ {\n
+comment6.target=void\ testIsProperSubmapOf01()
+comment6.text=\nreturns\ true\ iff\nfor\ each\ key\ in\ this.iAmTheMap,\ backpack.iAmTheMap\ contains\ the\ same\ key\nthis.iAmTheMap.get(key)\ is\ a\ proper\ subset\ of\ backpack.iAmTheMap.get(key)\ for\ every\ key\ in\ iAmTheMap.keySet()\nnote\:\ \ this\ implies\ that\ no\ sets\ are\ equal.\notherwise\ return\ false\npublic\ boolean\ isProperSubmapOf(DorasGreatMapAdventure\ s)\ \n
+comment7.target=void\ testClear01()
+comment7.text=\nRemoves\ all\ mappings\ from\ this\ map\npublic\ void\ clear()\ \n
+comment8.target=void\ testClearKey01()
+comment8.text=\nthe\ set\ associated\ with\ key\ is\ emptied\npublic\ void\ clearKey(Object\ isa)\n
+comment9.target=void\ testNumMappings01()
+comment9.text=\nreturns\ the\ number\ key-value\ mapping\ in\ iAmTheMap\npublic\ int\ numMappings()\ \n\n
+numComments=10

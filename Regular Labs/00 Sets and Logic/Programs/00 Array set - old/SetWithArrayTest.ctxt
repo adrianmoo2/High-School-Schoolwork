@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SetWithArrayTest()
+comment0.text=\nDefault\ constructor\ for\ test\ class\ TearCalculatorTest\n\n
+comment1.target=void\ testSetWithArrayUnion00()
+comment2.target=void\ testSetWithArrayIntersection00()
+comment3.target=void\ testSetWithArrayDifference00()
+comment4.target=void\ testSetWithArrayIsSubSetOf00()
+comment5.target=void\ testSetWithArrayIsEqualTo00()
+comment6.target=void\ testSetWithArraySymmetricDifference00()
+comment7.target=void\ testSetWithArrayisPartition00()
+numComments=8

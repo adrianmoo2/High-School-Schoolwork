@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=void\ testSize01()
+comment1.target=void\ testNumDistinctItems01()
+comment10.target=void\ testEquals01()
+comment10.text=Every\ key\ in\ this.iAmTheMap\ is\ a\ key\ in\ otherDorasGreatMapAdventure.iAMTheMap\nEvery\ key\ in\ otherDorasGreatMapAdventure.iAmTheMap\ is\ a\ key\ in\ this.iAMTheMap\nEach\ pair\ of\ set\ for\ a\ given\ key\ are\ equal\nthat\ is,\ \ iAmTheMap.get(key).equals(otherDorasGreatMapAdventure.iAmTheMap.get(key))\npublic\ boolean\ equals\ (Object\ otherDorasGreatMapAdventure)\ {\n
+comment2.target=void\ testToString01()
+comment3.target=void\ testNumItems01()
+comment3.text=\nreturns\ the\ total\ number\ of\ non\ key\ items\ in\ the\ iAmTheMap\nThat\ is,\ the\ sum\ of\ the\ size\ of\ each\ set\ assocaiated\ with\ all\ keys\n
+comment4.target=void\ testToArray01()
+comment4.text=\nreturns\ an\ array\ containing\ all\ elements\ from\ the\ associated\ sets\nitems\ may\ appear\ in\ the\ array\ more\ than\ once\nkeys\ are\ not\ to\ be\ added\ to\ the\ array\n\n
+comment5.target=void\ testMaxItem01()
+comment5.text=\nFinds\ the\ largest\ value\ in\ all\ the\ sets\ contained\ in\ the\ map.\nYou\ should\ assume\ that\ all\ Sets\ contain\ comparable\ items\nand\ that\ all\ sets\ are\ Comparable\ to\ each\ other\nDorasGreatMapAdventure\ is\ NOT\ empty\n\n
+comment6.target=void\ testRemove_key_Object01()
+comment6.text=\nif\ tico\ is\ in\ the\ Set\ associate\ with\ key\nremove\ tico\ from\ the\ set\ associated\ with\ key.\nif\ the\ Set\ becomes\ Empty,\ remove\ the\ key\ from\ iAmTheMap\notherwise\ -\ do\ not\ throw\ an\ exception,\ that\ exit\ the\ method\ gracefully\n\n
+comment7.target=void\ testIsEmpty01()
+comment7.text=\nreturns\ true\ iff\ iAmTheMap\ continas\ key-value\ mappings\notherwise\ returns\ false\n\n
+comment8.target=void\ testContains01()
+comment8.text=\nreturns\ true\ if\ a\ one\ or\ more\ associated\ set\ contains\ diego\notherwise\ (no\ set\ contains\ diego)\ return\ false\n\n
+comment9.target=void\ testRemoveFromAll01()
+comment9.text=\nremove\ isa\ from\ all\ sets\n\n
+numComments=11

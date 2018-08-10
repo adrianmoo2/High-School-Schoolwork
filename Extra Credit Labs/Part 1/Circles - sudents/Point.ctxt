@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=class\ Point
+comment1.target=x
+comment2.params=
+comment2.target=double\ getY()
+comment3.params=
+comment3.target=int\ hashCode()
+comment4.params=
+comment4.target=double\ getX()
+comment5.params=obj
+comment5.target=boolean\ equals(Object)
+comment6.params=a\ b
+comment6.target=Point(double,double)
+comment6.text=\nConstructor\ for\ objects\ of\ class\ Point\n\n
+comment7.target=y
+numComments=8

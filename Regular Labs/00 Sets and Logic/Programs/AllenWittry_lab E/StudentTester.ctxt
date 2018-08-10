@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=void\ testIsProperSubsetOf01()
+comment1.target=void\ testIsSubsetOf01()
+comment10.target=void\ testIsEmpty01()
+comment11.target=void\ testToString01()
+comment2.target=void\ testEquals01()
+comment3.target=void\ testRemove01()
+comment4.target=void\ testToArray01()
+comment5.target=void\ testSetDifference01()
+comment6.target=void\ testIntersection01()
+comment7.target=void\ testAdd01()
+comment8.target=void\ testSize01()
+comment9.target=void\ testUnion01()
+numComments=12

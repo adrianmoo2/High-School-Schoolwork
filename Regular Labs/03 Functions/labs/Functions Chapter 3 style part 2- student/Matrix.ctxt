@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=int[][]\ product(int[][],\ int[][])
+comment0.text=\nMatrix\ multiplication\n\n@return\ \ \ \ \ matrix\ x\ times\ matrix\ y\ \n\n
+numComments=1

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=String\ mystery10(String)
+comment0.text=one\ StringTokenizer\ strTok\ \=\ new\ StringTokenizer(input)\nis\ allowed\ per\ method.\ \ This\ is\ also\ the\ only\ use\ of\ input\ allowed.\nIn\ addition,\ StringTokenizer\ is\ only\ allowed\ to\ partition\ the\ String\ and\ enter\ninto\ the\ stack\ or\ queue\ or\ ....\ \ No\ other\ use\ of\ StringTokenizer\ is\ allowed.\n
+comment1.params=input
+comment1.target=String\ mysteryC(String)
+comment1.text=Allowable\ Objects\nStringTokenizer\ strTok\ \=\ new\ StringTokenizer(input);\nStack<someClassThatYouChoose>\ s\ \=\ new\ Stack<someClassThatYouChoose>();\nQueue<someClassThatYouChoose>\ q\ \=\ new\ LinkedList<someClassThatYouChoose>();\nString\ str\ \=\ new\ String();\ \ \ \nplus\ one\ other\ Object\ of\ your\ choice,\ for\ example\ one\ Integer\ or\ String\ or\ ....\n\n
+comment2.params=input
+comment2.target=String\ mysteryP(String)
+comment2.text=Allowable\ Objects\nStringTokenizer\ strTok\ \=\ new\ StringTokenizer(input);\nStack<someClassThatYouChoose>\ s\ \=\ new\ Stack<someClassThatYouChoose>();\nQueue<someClassThatYouChoose>\ q\ \=\ new\ LinkedList<someClassThatYouChoose>();\nString\ str\ \=\ new\ String();\ \ \ \nplus\ one\ other\ Object\ of\ your\ choice,\ for\ example\ one\ Integer\ or\ String\ or\ ....\n\n
+comment3.params=input
+comment3.target=String\ mysteryS(String)
+comment3.text=Allowable\ Objects\nStringTokenizer\ strTok\ \=\ new\ StringTokenizer(input);\nStack<someClassThatYouChoose>\ s\ \=\ new\ Stack<someClassThatYouChoose>();\nQueue<someClassThatYouChoose>\ q\ \=\ new\ LinkedList<someClassThatYouChoose>();\nString\ str\ \=\ new\ String();\ \ \ \nplus\ one\ other\ Object\ of\ your\ choice,\ for\ example\ one\ Integer\ or\ String\ or\ ....\n\n
+comment4.params=input
+comment4.target=String\ mysteryPostFix(String)
+comment4.text=Allowable\ Objects\nStringTokenizer\ strTok\ \=\ new\ StringTokenizer(input);\nStack<someClassThatYouChoose>\ s\ \=\ new\ Stack<someClassThatYouChoose>();\nQueue<someClassThatYouChoose>\ q\ \=\ new\ LinkedList<someClassThatYouChoose>();\nString\ str\ \=\ new\ String();\ \ \ \nplus\ one\ other\ Object\ of\ your\ choice,\ for\ example\ one\ Integer\ or\ String\ or\ ....\n\n
+comment5.params=input
+comment5.target=String\ mysteryPreFix(String)
+comment5.text=Allowable\ Objects\nStringTokenizer\ strTok\ \=\ new\ StringTokenizer(input);\nStack<someClassThatYouChoose>\ s\ \=\ new\ Stack<someClassThatYouChoose>();\nQueue<someClassThatYouChoose>\ q\ \=\ new\ LinkedList<someClassThatYouChoose>();\nString\ str\ \=\ new\ String();\ \ \ \nplus\ one\ other\ Object\ of\ your\ choice,\ for\ example\ one\ Integer\ or\ String\ or\ ....\n\n
+numComments=6

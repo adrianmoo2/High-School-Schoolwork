@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=SetWithArray(int[])
+comment1.params=y
+comment1.target=int[]\ union(int[])
+comment1.text=\r\n\ returns\ an\ Set\ (array)\ containing\ all\ elements\ in\ x\ OR\ y\r\n
+comment2.params=y
+comment2.target=int[]\ intersection(int[])
+comment2.text=\r\n\ returns\ an\ Set\ (array)\ containing\ all\ elements\ in\ x\ AND\ y\r\n
+comment3.params=y
+comment3.target=int[]\ difference(int[])
+comment3.text=\r\n\ returns\ an\ Set\ (array)\ containing\ all\ elements\ in\ x\ that\ are\ not\ in\ y\r\n
+comment4.params=y
+comment4.target=boolean\ isSubSetOf(int[])
+comment4.text=\r\n\ returns\ true\ if\ all\ elements\ of\ x\ are\ contained\ in\ y\r\n
+comment5.params=y
+comment5.target=boolean\ isSubSetOf2(int[])
+comment6.params=y
+comment6.target=boolean\ isEqualTo(int[])
+comment6.text=\r\n\ returns\ true\ if\ all\ elements\ in\ y\ are\ contained\ in\ x\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ if\ all\ elements\ in\ x\ are\ contained\ in\ y\r\n
+comment7.params=y
+comment7.target=int[]\ symmetricDifference(int[])
+comment7.text=\r\n\ returns\ the\ set\ of\ elements\ which\ are\ in\ one\ of\ the\ set\r\n\ \ \ \ \ \ \ \ \ that\ is\:\ \ (x\ -\ y)\ union\ (y\ -\ x)\r\n
+numComments=8
